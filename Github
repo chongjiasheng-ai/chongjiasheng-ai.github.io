@@ -1,0 +1,22 @@
+GitHub
+│
+├── yourusername.github.io
+│   └── Portfolio website
+│
+├── student-database-system
+│   ├── database.sql
+│   ├── ERD.png
+│   └── README.md
+│
+├── employee-management-system
+│   ├── Java files
+│   └── README.md
+│
+├── cisco-network-design
+│   ├── network.pkt
+│   ├── topology.png
+│   └── README.md
+│
+└── sql-practice
+    ├── queries.sql
+    └── README.md
